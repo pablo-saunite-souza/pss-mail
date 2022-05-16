@@ -1,6 +1,6 @@
 {
   "name": "mail-sender",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "My own mail sender service.",
   "main": "index.js",
   "scripts": {
@@ -15,6 +15,7 @@
     "cors": "^2.8.5",
     "dotenv": "^11.0.0",
     "express": "^4.17.2",
+    "googleapis": "^100.0.0",
     "jsonwebtoken": "^8.5.1",
     "morgan": "^1.10.0",
     "multer": "^1.4.4",
